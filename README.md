@@ -7,7 +7,7 @@ Project is created with:
 * Spring version: 6.1.2
 	
 ## Setup
-Before running this project, you need to create database in your MySQL and edit custom-authentication\src\main\resources\application.properties. 
+Before running this project, you need to create database in your MySQL and edit `custom-authentication\src\main\resources\application.properties`. 
 
 ## Scope of functionalities
 Application has few html pages:
